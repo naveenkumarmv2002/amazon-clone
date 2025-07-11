@@ -17,3 +17,4 @@ Technologies Used
 - CSS3 (Flexbox and Grid)
 - Vanilla JavaScript (ES6)
 
+https://naveenkumarmv2002.github.io/amazon-clone/
